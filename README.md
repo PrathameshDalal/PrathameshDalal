@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Enthusiast
 ---------------------------
 
-Junior @IITM and MIT-WPU, Intrested in Machine Learning, Computer Vision and Bioimaging. When I'm not decoding algorithms, you'll find me strategically moving chess pieces or pouring my thoughts into tech blogs. My academic toolkit includes Machine Learning, Data Structures, and Algorithms, with a sprinkle of Deep Learning and Computer Vision. I'm on track to dive into LLMs and GenAI —because who doesn't love some ATTENTION? I am currently looking for a Research Internship in the field of Machine Learning and Computer Vision. check out my resume check out my resume [here](https://drive.google.com/file/d/1p7IyL8J_IfU0OnT7BctmpwzrYrqhHkBg/view) (updated Dec 2023
+Junior @IITM and MIT-WPU, Intrested in Machine Learning, Computer Vision and Bioimaging. When I'm not decoding algorithms, you'll find me strategically moving chess pieces or pouring my thoughts into tech blogs. My academic toolkit includes Machine Learning, Data Structures, and Algorithms, with a sprinkle of Deep Learning and Computer Vision. I'm on track to dive into LLMs and GenAI —because who doesn't love some ATTENTION? I am currently looking for a Research Internship in the field of Machine Learning and Computer Vision. check out my resume check out my resume [here](https://drive.google.com/file/d/1p7IyL8J_IfU0OnT7BctmpwzrYrqhHkBg/view) (updated Dec 2023)
 
 * 🌍  I'm based in Pune, India
-* 🖥️  See my portfolio at [My Portfolio](http://prathameshdalal.github.io/info/)
+* 🖥️  See my portfolio at [My Portfolio](https://prathameshdalal.github.io/PIAI23DEC1002-Portfolio/)
 * ✉️  You can contact me at [prathameshdalal100@gmail.com](mailto:prathameshdalal100@gmail.com)
 * 🧠  I'm learning LLMs, Transformers, Pytorch, Docker, Tensorflow
 * ⚡  Chess is my side gig— where I checkmate problems on and off the board
