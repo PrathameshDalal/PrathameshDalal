@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Enthusiast
 ---------------------------
 
-Junior @IITM and MIT-WPU, Intrested in Machine Learning, Computer Vision and Bioimaging. When I'm not decoding algorithms, you'll find me strategically moving chess pieces or pouring my thoughts into tech blogs. My academic toolkit includes Machine Learning, Data Structures, and Algorithms, with a sprinkle of Deep Learning and Computer Vision. I'm on track to dive into LLMs and GenAI. I am currently a Research Intern at Indian Institute of Technology, Bombay. check out my [resume](https://drive.google.com/file/d/1p7IyL8J_IfU0OnT7BctmpwzrYrqhHkBg/view) (updated Dec 2023)
+Junior @IITM and MIT-WPU, Intrested in Machine Learning, Computer Vision and Bioimaging. When I'm not decoding algorithms, you'll find me strategically moving chess pieces or pouring my thoughts into tech blogs. My academic toolkit includes Machine Learning, Data Structures, and Algorithms, with a sprinkle of Deep Learning and Computer Vision. I'm on track to dive into LLMs and GenAI. I am currently working as a Research Intern at Indian Institute of Technology, Bombay. check out my [resume](https://drive.google.com/file/d/1hJeAesOEFq9LZzg_ZHZlNERxCXFfRbwc/view?usp=sharing) (updated April 2024)
 
 * 🌍  I'm based in Pune, India
 * 🖥️  See my portfolio at [In Progress]()
