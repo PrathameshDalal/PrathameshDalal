@@ -19,9 +19,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+![meme1](https://github.com/user-attachments/assets/3437c8ed-ab0d-47ba-a097-a07cb50e3a07)
+![meme2](https://github.com/user-attachments/assets/c5f053ca-4a6b-4bec-81f2-e09728fdf8a5)
+![meme3](https://github.com/user-attachments/assets/974decbd-d960-4fba-abad-53a032839b57)
 
----
-[![](https://visitcount.itsvg.in/api?id=PrathameshDalal&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
